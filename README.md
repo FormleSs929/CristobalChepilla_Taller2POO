@@ -1,6 +1,6 @@
 # Taller 02 – POO
 
-Cristóbal Nicolás Chepilla Arriagada, 21873055-8, FormleSsFn  
+Cristóbal Nicolás Chepilla Arriagada, 21873055-8, FormleSs929
 
 ## Descripción
 
